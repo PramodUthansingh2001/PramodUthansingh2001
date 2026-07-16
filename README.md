@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pramod Uthansingh 👋
 
-<!--
-**PramodUthansingh2001/PramodUthansingh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Electronics & Communication Engineering
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about Embedded Systems and IoT
+- Interested in Digital Electronics and Automation
+- Currently preparing for engineering and government recruitment exams
+- Always learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- C Programming
+- Embedded C
+- Arduino
+- Digital Electronics
+- Analog Electronics
+- Microcontrollers
+- IoT
+- PCB Basics
+
+## Projects
+### Smart Dustbin Automation
+Designed and developed an automated smart dustbin using sensors and a microcontroller for touch-free waste disposal.
+
+## Goals
+- Build practical embedded systems projects
+- Learn PCB design
+- Improve programming skills
+- Contribute to open-source projects
+
+## Connect with Me
+- LinkedIn: Coming Soon
+- Email: your-email@example.com
