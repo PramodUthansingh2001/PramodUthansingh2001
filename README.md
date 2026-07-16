@@ -30,4 +30,4 @@ Designed and developed an automated smart dustbin using sensors and a microcontr
 
 ## Connect with Me
 - LinkedIn: Coming Soon
-- Email: your-email@example.com
+- Email: pramoduthansingh6860@gmail.com
