@@ -34,7 +34,6 @@ I am a B.Tech graduate in Electronics and Communication Engineering with a stron
 - Arduino IDE
 - Keil uVision
 - Proteus
-- KiCad
 - Git
 - GitHub
 
