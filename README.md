@@ -53,7 +53,7 @@ I am a B.Tech graduate in Electronics and Communication Engineering with a stron
 ---
 
 
-## About Me
+## 🪐About Me
 - Passionate about Embedded Systems and IoT
 - Interested in Digital Electronics and Automation
 - Currently preparing for engineering and government recruitment exams
@@ -71,7 +71,8 @@ Designed and developed an automated smart dustbin using sensors and a microcontr
 
 
 
-🚀 About Me
+## 🚀 About Me
+
 I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, IoT, Arduino, PCB Design, and Embedded C programming.
 
 I enjoy building practical engineering projects, learning new technologies, and continuously improving my technical skills.
@@ -79,7 +80,7 @@ I enjoy building practical engineering projects, learning new technologies, and 
 Currently preparing for Graduate Engineer opportunities and Government Engineering Examinations while building a strong technical portfolio on GitHub.
 
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 Smart Dustbin Automation
 
@@ -99,7 +100,7 @@ Responsive portfolio website hosted on GitHub Pages.
 
 ---
 
-📈 Current Focus
+## 📈 Current Focus
 
 - Embedded Systems Development
 - IoT Projects
@@ -107,7 +108,9 @@ Responsive portfolio website hosted on GitHub Pages.
 - Government Engineering Exam Preparation
 - Open Source Portfolio Building
 
-- 
+
+-
+
 # Hi there 👋 I'm Pramod Uthansingh
 
 ## Electronics & Communication Engineer
