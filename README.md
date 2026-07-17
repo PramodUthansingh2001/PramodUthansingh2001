@@ -58,16 +58,6 @@ I am a B.Tech graduate in Electronics and Communication Engineering with a stron
 - Currently preparing for engineering and government recruitment exams
 - Always learning new technologies
 
-## Technical Skills
-- C Programming
-- Embedded C
-- Arduino
-- Digital Electronics
-- Analog Electronics
-- Microcontrollers
-- IoT
-- PCB Basics
-
 ## Projects
 ### Smart Dustbin Automation
 Designed and developed an automated smart dustbin using sensors and a microcontroller for touch-free waste disposal.
@@ -78,76 +68,15 @@ Designed and developed an automated smart dustbin using sensors and a microcontr
 - Improve programming skills
 - Contribute to open-source projects
 
-## 🎯 Career Objective
 
-I am seeking opportunities where I can apply my engineering knowledge, strengthen my embedded systems and electronics skills, and contribute to innovative projects while continuing to learn and grow professionally.
-
----
-
-## 📫 Contact
-
-📧 Email: pramoduthansingh6860@gmail.com
-
-💻 GitHub:
-https://github.com/PramodUthansingh2001
-
-_ _ _
-
-Hi there, I'm Pramod Uthansingh 👋
-
-Electronics & Communication Engineer | Embedded Systems Enthusiast
-
-🎓 B.Tech in Electronics & Communication Engineering
-📍 Odisha, India
-📧 pramoduthansingh6860@gmail.com
-🌐 Portfolio: https://pramoduthansingh2001.github.io/Portfolio-Website/
-💻 GitHub: https://github.com/PramodUthansingh2001
-
----
 
 🚀 About Me
-
 I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, IoT, Arduino, PCB Design, and Embedded C programming.
 
 I enjoy building practical engineering projects, learning new technologies, and continuously improving my technical skills.
 
 Currently preparing for Graduate Engineer opportunities and Government Engineering Examinations while building a strong technical portfolio on GitHub.
 
----
-
-🛠 Technical Skills
-
-Programming
-
-- C
-- Embedded C
-- Python
-- HTML
-- CSS
-
-Embedded Systems
-
-- Arduino Uno
-- Microcontrollers
-- Sensor Interfacing
-- IoT Applications
-
-Electronics
-
-- Digital Electronics
-- Analog Electronics
-- PCB Design
-- Circuit Design
-
-Tools
-
-- Git
-- GitHub
-- Arduino IDE
-- Proteus
-- Keil uVision
-
----
 
 📂 Featured Projects
 
@@ -213,6 +142,12 @@ Responsive portfolio website hosted on GitHub Pages.
 - 💻 Embedded C Programming Repository
 - 🔌 Arduino Projects
 - 🌐 Personal Portfolio Website
+
+---
+
+## 🎯 Career Objective
+
+I am seeking opportunities where I can apply my engineering knowledge, strengthen my embedded systems and electronics skills, and contribute to innovative projects while continuing to learn and grow professionally.
 
 ---
 
