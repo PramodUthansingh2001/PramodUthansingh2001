@@ -92,3 +92,101 @@ I am seeking opportunities where I can apply my engineering knowledge, strengthe
 https://github.com/PramodUthansingh2001
 
 _ _ _
+
+Hi there, I'm Pramod Uthansingh 👋
+
+Electronics & Communication Engineer | Embedded Systems Enthusiast
+
+🎓 B.Tech in Electronics & Communication Engineering
+📍 Odisha, India
+📧 pramoduthansingh6860@gmail.com
+🌐 Portfolio: https://pramoduthansingh2001.github.io/Portfolio-Website/
+💻 GitHub: https://github.com/PramodUthansingh2001
+
+---
+
+🚀 About Me
+
+I am an Electronics & Communication Engineering graduate passionate about Embedded Systems, IoT, Arduino, PCB Design, and Embedded C programming.
+
+I enjoy building practical engineering projects, learning new technologies, and continuously improving my technical skills.
+
+Currently preparing for Graduate Engineer opportunities and Government Engineering Examinations while building a strong technical portfolio on GitHub.
+
+---
+
+🛠 Technical Skills
+
+Programming
+
+- C
+- Embedded C
+- Python
+- HTML
+- CSS
+
+Embedded Systems
+
+- Arduino Uno
+- Microcontrollers
+- Sensor Interfacing
+- IoT Applications
+
+Electronics
+
+- Digital Electronics
+- Analog Electronics
+- PCB Design
+- Circuit Design
+
+Tools
+
+- Git
+- GitHub
+- Arduino IDE
+- Proteus
+- Keil uVision
+
+---
+
+📂 Featured Projects
+
+Smart Dustbin Automation
+
+Touch-free automatic dustbin using Arduino, ultrasonic sensor, and servo motor.
+
+Embedded C Programming Repository
+
+Comprehensive collection of Embedded C programs and concepts.
+
+Arduino Projects Collection
+
+Practical Arduino projects with code, circuits, and documentation.
+
+Personal Portfolio Website
+
+Responsive portfolio website hosted on GitHub Pages.
+
+---
+
+📈 Current Focus
+
+- Embedded Systems Development
+- IoT Projects
+- PCB Design
+- Government Engineering Exam Preparation
+- Open Source Portfolio Building
+
+---
+
+🤝 Connect With Me
+
+📧 Email: pramoduthansingh6860@gmail.com
+
+🌐 Portfolio: https://pramoduthansingh2001.github.io/Portfolio-Website/
+
+💻 GitHub: https://github.com/PramodUthansingh2001
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
