@@ -176,7 +176,60 @@ Responsive portfolio website hosted on GitHub Pages.
 - PCB Design
 - Government Engineering Exam Preparation
 - Open Source Portfolio Building
+# Hi there 👋 I'm Pramod Uthansingh
 
+## Electronics & Communication Engineer
+
+🎓 B.Tech in Electronics & Communication Engineering
+
+💻 Embedded Systems | Embedded C | Arduino | IoT | Python
+
+🌱 Currently learning Embedded Systems, Git & GitHub, and Web Development
+
+🎯 Preparing for Graduate Engineer roles and Government Engineering Exams
+
+---
+
+## 🛠️ Technical Skills
+
+- Embedded C
+- C Programming
+- Python
+- Arduino
+- IoT
+- HTML
+- CSS
+- Git & GitHub
+- PCB Design
+- Digital Electronics
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 Smart Dustbin Automation
+- 💻 Embedded C Programming Repository
+- 🔌 Arduino Projects
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: pramoduthansingh6860@gmail.com
+
+💻 GitHub:
+https://github.com/PramodUthansingh2001
+
+🌐 Portfolio:
+https://pramoduthansingh2001.github.io/Portfolio-Website/
+
+🔗 LinkedIn:
+(Add your LinkedIn profile URL here)
+
+---
+
+⭐ Thanks for visiting my profile!
 ---
 
 🤝 Connect With Me
