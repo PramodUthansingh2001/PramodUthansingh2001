@@ -12,7 +12,9 @@ I am a B.Tech graduate in Electronics and Communication Engineering with a stron
 - C
 - Embedded C
 - Python
-- Arduino
+- HTML5
+- css
+- Java
 
 ### Embedded Systems
 - Arduino Uno
