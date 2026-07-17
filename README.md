@@ -166,7 +166,7 @@ https://github.com/PramodUthansingh2001
 https://pramoduthansingh2001.github.io/Portfolio-Website/
 
 🔗 LinkedIn:
-(Add your LinkedIn profile URL here)
+https://www.com/in/pramod-uthansingh/
 
 ---
 
